@@ -37,8 +37,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lovesinghal31&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovesinghal31&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lovesinghal31&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -105,6 +104,11 @@ const lovesinghal = {
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovesinghal31&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/lovesinghal31" alt="GitHub Contribution Chart" />
 </p>
 
 ---
