@@ -5,6 +5,7 @@
 ![Header GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ### 🎯 A passionate tech explorer turning ideas into engaging web solutions
+
 **Innovates through creative problem-solving and user-focused designs. Balances engineering precision with a flair for artistic expression.**
 
 ---
@@ -12,12 +13,14 @@
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -27,91 +30,12 @@
 ![Aceternity UI](https://img.shields.io/badge/-Aceternity%20UI-FF6B6B?style=flat-square&logo=ui&logoColor=white)
 
 ### Database & Tools
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lovesinghal31&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lovesinghal31&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 🏆 Featured Projects
-
-### 🛒 [EcomWeb](https://github.com/lovesinghal31/ecomweb)
-**Smart AI-based eCommerce platform** - Revolutionizing online shopping with intelligent recommendations and user experience.
-
-### 🏛️ [SmartJansunwai](https://github.com/lovesinghal31/SmartDansuwar)
-**Smart AI-based problem resolution solution** - Government of MP initiative for citizen grievance management (Tech Indore Hackathon Project).
-
-### 🧠 [Thryve](https://github.com/lovesinghal31/Thryve)
-**Smart AI-based mental health solution** - Comprehensive mental wellness platform with AI-driven insights (SIH 2025 Project).
-
-### 🎵 [MusicNextjs](https://github.com/lovesinghal31/musicnextjs)
-**Music School Website** - Modern website for a music school with seamless user experience and course management.
-
----
-
-## 🎨 What I'm About
-
-```javascript
-const lovesinghal = {
-  code: ["JavaScript", "TypeScript", "CSS", "C++", "Java"],
-  askMeAbout: ["web dev", "tech", "AI solutions", "hackathons", "creativity"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind"]
-    },
-    backEnd: {
-      js: ["Node", "Express"],
-    },
-    uiLibraries: ["Shadcn/ui", "Aceternity UI", "Daisy UI"],
-    databases: ["MongoDB"],
-    ai: ["AI Integration"],
-    misc: ["Firebase", "Socket.IO", "REST APIs"]
-  },
-  currentFocus: "Building AI-powered web solutions",
-  achievements: ["Tech Indore Hackathon", "SIH 2025 Participant"],
-  funFact: "I balance engineering precision with artistic expression! 🎨⚡"
-};
-```
-
----
-
-## 🌟 What Drives Me
-
-- 🚀 **AI Innovation**: Building intelligent solutions that solve real-world problems
-- 🏆 **Hackathon Enthusiast**: Participating in competitions like Tech Indore & SIH 2025
-- 🧩 **Problem Solving**: Creating solutions for government and healthcare sectors
-- 🎨 **Design**: Balancing technical precision with artistic flair
-- 📚 **Learning**: Constantly exploring AI, web technologies, and new methodologies
-- 🤝 **Impact**: Building meaningful solutions that help communities and individuals
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovesinghal31&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-### 📊 Contribution Graph
-<p align="center">
-  <img src="https://ghchart.rshah.org/lovesinghal31" alt="GitHub Contribution Chart" />
-</p>
-
----
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ## 🤝 Let's Connect!
 
@@ -123,8 +47,4 @@ const lovesinghal = {
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=lovesinghal31&color=FF6B6B&style=flat-square&label=Profile+Views)
-
-### 💭 *"Code is poetry written in logic"*
-
-![Footer GIF](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+### 💭 _"Your code can save the day."_
